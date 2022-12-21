@@ -9,7 +9,7 @@ Students can participate in the quizzes and view their results and performances 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  
-### How to use it?
+### How does VoteIn work?
 https://user-images.githubusercontent.com/87040096/143786033-a5cb2ac5-fa9c-4083-b8e7-527cc6b790a8.mp4
 
 <!-- CONTACT -->
