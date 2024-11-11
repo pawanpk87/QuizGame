@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/87040096/143786033-a5cb2ac5-fa9c-4083-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Pawan Kumar Mehta - arowpk@gmail.com
+Pawan Kumar Mehta - arowpk@gmail.com
 
 Project Link: [https://github.com/pawanpk87/QuizGame](https://github.com/pawanpk87/QuizGame)
